@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Vingt mille lieues sous les mers",
+        "author": "Jules Verne",
+        "description" : "L'apparition d'une bête monstrueuse en 1866 dans plusieurs mers du globe défraie la chronique. L'animal, rapide, fusiforme et phosphorescent, est responsable de plusieurs naufrages, brisant le bois et l'acier des navires avec une force colossale. De retour d'une expédition dans le Nebraska, Pierre Aronnax, professeur suppléant au Muséum national d'histoire naturelle, émet l'hypothèse d'un narval géant. ",
+        "image": "https://www.amazon.fr/Vingt-mille-lieues-sous-mers/dp/2253006327"
+    },
+    {
+        "title": "Crime et châtiment",
+        "author": "Fiodor Dostoïevski",
+        "description" : "Rodion Romanovitch Raskolnikov est un ancien étudiant en droit âgé de 23 ans, sans le sou. Par manque d'argent, il a dû abandonner ses études et vit dans un quartier mal famé de Saint-Pétersbourg. Rongé par la pauvreté, il s'isole du reste du monde. Après qu'il a vendu son dernier bien, la montre de son père, à une usurière, une idée lui vient à l'esprit : un meurtre est-il moralement tolérable s'il conduit à une amélioration de la condition humaine ? Il a décidé d'assassiner l'usurière depuis quelque temps, mais son plan ne se déroule pas comme prévu et il commet un double meurtre. Pris de remords et de culpabilité, il se rend compte qu'il ne peut être pardonné et qu'il ne sera jamais un grand homme, comme il l'espère tant. Raskolnikov passe du crime au châtiment. ",
+        "image": "https://catalogue.immateriel.fr/resources/e3/92/78a3c9044aa89ed540bea79fb65d535b0c149120361a3ecd365982755530.png"
+    },
+    {
+        "title": "L'appel de Cthulhu",
+        "author": "Howard Philipps Lovecraft",
+        "description" : "Le narrateur, médecin ayant suivi des études à la faculté de médecine en compagnie du personnage éponyme, rend compte de la disparition récente d'Herbert West. À présent, il peut enfin témoigner de la folie de son condisciple et exprimer l'horreur que ses actes lui inspiraient. ",
+        "image": "https://lh3.googleusercontent.com/proxy/UN1yXKfhrbtNMlToWGiEs5V0gzHDRRK1cc4tk2J2pOyyX1_rZMAyL_mJGMkfrzzth1BKSh3A_uQoDD1gYbpXhfM6oWux-5VcN7hu7LtPyrOYN0IJ70Tx-D-atP-AhT0"
+    },
+    {
+        "title": "In tenebris",
+        "author": "Maxime Chattam",
+        "description" : "Le roman est formellement divisé en trois parties, de longueurs différentes. Chacune d'elles correspond à l'arrestation de l'un des membres du réseau criminel « Caliban ». ",
+        "image": "https://www.leslibraires.fr/livre/228631-in-tenebris-maxime-chattam-michel-lafon"
+    },
+    {
+        "title": "Chroniques martiennes",
+        "author": "Ray Bradbury",
+        "description" : "Chroniques martiennes conte l'histoire des premiers colons Terriens vers la planète Mars. La très ancienne civilisation martienne, sur le déclin, finit par disparaître devant l'arrivée massive des humains. À cause d'une guerre qui se déclare sur leur planète d'origine, les Terriens repartent et abandonnent Mars, à l'exception d'une poignée d'entre eux. ",
+        "image": "https://img.livraddict.com/covers/362/362354//couv67667471.jpg"
+    }
+]
