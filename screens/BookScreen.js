@@ -15,11 +15,11 @@ const BookScreen = ({navigation, route}) => {
                 titleStyle={{fontSize: 24}}>
                 <Image 
                     source={{ uri: book.image}}
-                    style={{ width: 700, height: 700 }}/>
+                    style={{ width: "auto", height: 700 }}/>
                 <Text style={styles.author}>
-                    {book.author}
+                    Auteur : <br></br>{book.author}
                 </Text>
-                <Text style={styles.description}>{book.description}</Text>
+                <Text style={styles.description}>Résumé : <br></br>{book.description}</Text>
             </Card>
         </View>
     );
@@ -31,11 +31,14 @@ const styles = StyleSheet.create({
       backgroundColor: '#fff',
       alignItems: 'center',
       justifyContent: 'center',
+      width: 900,
+      margin: "auto"
     },
     description: {
         color: "grey"
     },
     author: {
+        marginTop: 20,
         marginBottom: 10,
         fontSize: 18
     },
