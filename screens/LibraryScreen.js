@@ -1,16 +1,26 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {StyleSheet, Text, View} from 'react-native';
 import { ListItem, Input } from 'react-native-elements';
 import Book from '../datas/books.json';
 import { AntDesign } from '@expo/vector-icons'; 
 import axios from 'axios';
-
+// import { TouchableWithoutFeedback, Keyboard } from 'react-native';
 
 function LibraryScreen({navigation}) {
+/*
+function closeKeyboard() {
+  Keyboard.dismiss();
+}
+*/
+
+function getBooks() {
+  axios.get('')
+}
     return(
-        <View style={styles.container}>
+      // <TouchableWithoutFeedback onPress={closeKeyboard}>
+        <View style={styles.container} >
             <Input
-              placeholder='Chercher un livre...'
+              placeholder='Chercher un livre...' 
             />
             {
               Book.map((b, i) => (
@@ -26,6 +36,7 @@ function LibraryScreen({navigation}) {
               ))
             }
         </View>
+        // </TouchableWithoutFeedback>
     )
 }
 

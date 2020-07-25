@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, Text,View} from 'react-native';
-import { Image, Card, Button, Icon} from 'react-native-elements';
+import { Image, Card } from 'react-native-elements';
 import Book from '../datas/books.json';
 import { AntDesign } from '@expo/vector-icons';
 
